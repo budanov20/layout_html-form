@@ -8,11 +8,12 @@
   margin-bottom: 0;
 }
 
-.inlineLabel {
+.inline {
   display: inline-block;
+  margin-bottom: 10px;
 
 }
 
-.block {
+fieldset {
   margin-bottom: 20px;
 }
